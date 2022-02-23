@@ -6,6 +6,18 @@
   height: 40vmin;
   pointer-events: none;
 }
+.list-component {
+  width: 50%;
+  margin: auto;
+}
+.input {
+  background: none;
+  outline: none;
+  border: none;
+  border: 1px solid green;
+  border-radius: 3px;
+  margin: 5px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
